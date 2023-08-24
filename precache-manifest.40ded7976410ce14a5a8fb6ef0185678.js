@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2490f7b18fa594770eec",
-    "url": "/Task-Tracker/static/css/main.0b0f6048.chunk.css"
+    "revision": "ed41dda3672e41040794",
+    "url": "/Task-Tracker/static/css/main.dce460cf.chunk.css"
   },
   {
-    "revision": "2490f7b18fa594770eec",
+    "revision": "ed41dda3672e41040794",
     "url": "/Task-Tracker/static/js/main.934ad6df.chunk.js"
   },
   {
@@ -20,7 +20,11 @@ self.__precacheManifest = [
     "url": "/Task-Tracker/static/js/3.937f6cc8.chunk.js"
   },
   {
-    "revision": "301029d57fcddaddcbf3fcc83f942990",
+    "revision": "b89c7ceba1db5cf80315d7cdd8894260",
+    "url": "/Task-Tracker/static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.b89c7ceb.jpg"
+  },
+  {
+    "revision": "aa22cf7beeb0e28ee722fa23db959f56",
     "url": "/Task-Tracker/index.html"
   }
 ];
